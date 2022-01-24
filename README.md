@@ -3,7 +3,7 @@
 
 > **Introdução ao C# e .NET**
 > 1. Finalizada a seção "Criando o primeiro projeto em C#"
-> 2. asdfa
+> 2. Finalizada a seção "Estruturas"
 
  
 ## Links Úteis
