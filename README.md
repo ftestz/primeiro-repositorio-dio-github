@@ -9,7 +9,9 @@
 > 1. Finalizada a seção "Introdução"
 > 2. Finalizada a seção "Conhecendo a Programação Orientada a Objetos"
 > 3. Finalizada a seção "Abstração"
-
+> 4. Finalizada a seção "Encapsulamento"
+> 5. Finalizada a seção "Herança"
+> 6. Finalizada a seção "Polimorfismo"
  
 ## Links Úteis
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
