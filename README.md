@@ -12,6 +12,8 @@
 > 4. Finalizada a seção "Encapsulamento"
 > 5. Finalizada a seção "Herança"
 > 6. Finalizada a seção "Polimorfismo"
+> 7. Finalizada a seção "Classes abstratas"
+> 8. Finalizada a seção "Interfaces"
  
 ## Links Úteis
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
