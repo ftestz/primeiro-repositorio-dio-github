@@ -14,6 +14,8 @@
 > 6. Finalizada a seção "Polimorfismo"
 > 7. Finalizada a seção "Classes abstratas"
 > 8. Finalizada a seção "Interfaces"
+> 9. Finalizada a seção "Manipulando arquivos"
+> 10. Finalizada a seção "Conclusão"
  
 ## Links Úteis
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
