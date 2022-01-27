@@ -16,6 +16,12 @@
 > 8. Finalizada a seção "Interfaces"
 > 9. Finalizada a seção "Manipulando arquivos"
 > 10. Finalizada a seção "Conclusão"
+
+> **Construtores, Propriedadaes, Delegates e Eventos em .NET**
+> 1. Finalizada a seção "Introdução"
+> 2. Finalizada a seção "Construtores"
+> 3. Finalizada a seção "Getters e Setters"
+> 4. Finalizada a seção "Modificadores"
  
 ## Links Úteis
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
