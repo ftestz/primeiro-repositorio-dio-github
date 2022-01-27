@@ -22,6 +22,9 @@
 > 2. Finalizada a seção "Construtores"
 > 3. Finalizada a seção "Getters e Setters"
 > 4. Finalizada a seção "Modificadores"
+> 5. Finalizada a seção "Delegates"
+> 6. Finalizada a seção "Eventos"
+> 7. Finalizada a seção "Conclusão"
  
 ## Links Úteis
 [Sintaxe Básica MarkDown](https://www.markdownguide.org/basic-syntax/)
